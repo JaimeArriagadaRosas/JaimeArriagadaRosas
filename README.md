@@ -15,7 +15,7 @@
     <img
       src="https://www.gitskins.com/api/section/hero?username=JaimeArriagadaRosas&theme=aurora&mode=dark"
       width="100%"
-      alt="Jaime Arriagada GitHub profile"
+      alt="GitHub profile hero"
     />
   </picture>
 </p>
@@ -34,9 +34,9 @@
 
 I'm **Jaime Arriagada**, a developer interested in building complete solutions from idea to implementation.
 
-I enjoy working across different layers of a project — from interfaces and backend systems to data, integrations, automation and development infrastructure.
+I enjoy working across different layers of a project: **frontend, backend, data, integrations, automation and development environments**.
 
-### Current interests
+My current interests include:
 
 * 🌐 Full-stack development with **React, TypeScript and Node.js**
 * 🧠 **Machine Learning** and Data Science
@@ -47,115 +47,64 @@ I enjoy working across different layers of a project — from interfaces and bac
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,docker,git,github,vite,html,css" />
+</p>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,docker,git,github,vite,html,css"
+    src="https://www.gitskins.com/api/section/stack?username=JaimeArriagadaRosas&theme=aurora"
+    width="100%"
     alt="Technology stack"
   />
 </p>
 
 ---
 
-## 🚀 Explore my work
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎓 Plugin Feedback for Canvas LMS</h3>
-      <p><strong>Education Technology · AI · Full Stack</strong></p>
+### 🎓 Plugin Feedback for Canvas LMS
 
-```
-  <p>
-    An LTI 1.3 application for Canvas LMS designed to generate, review and deliver
-    academic feedback while keeping the instructor in control of the approval flow.
-  </p>
+An **LTI 1.3 application for Canvas LMS** focused on generating, reviewing and delivering academic feedback while keeping the instructor in control of the approval process.
 
-  <p>
-    The project combines a React client, Node.js backend, AI-provider integrations,
-    PostgreSQL, Docker tooling and a local Canvas LMS development environment.
-  </p>
+The project combines:
 
-  <p>
-    <code>React</code>
-    <code>Node.js</code>
-    <code>LTI 1.3</code>
-    <code>PostgreSQL</code>
-    <code>Docker</code>
-    <code>AI</code>
-    <code>Canvas LMS</code>
-  </p>
+`React` · `Node.js` · `LTI 1.3` · `Docker` · `PostgreSQL` · `AI Integrations` · `Canvas LMS`
 
-  <p>
-    <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
-      <strong>View project →</strong>
-    </a>
-  </p>
-</td>
-```
+<p>
+  <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-  </tr>
+---
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 Colegio Horizonte</h3>
-      <p><strong>Frontend · UI/UX · Web</strong></p>
+### 🏫 Colegio Horizonte
 
-```
-  <p>
-    A portfolio website for a fictional educational institution, focused on
-    responsive design, fluid animation and a polished content experience.
-  </p>
+A modern portfolio website for a fictional educational institution, designed around responsive interfaces, smooth animations and a polished user experience.
 
-  <p>
-    <code>React 19</code>
-    <code>TypeScript</code>
-    <code>Vite</code>
-    <code>Tailwind CSS</code>
-    <code>Framer Motion</code>
-  </p>
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `Framer Motion`
 
-  <p>
-    <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
-      <strong>View project →</strong>
-    </a>
-  </p>
-</td>
+<p>
+  <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<td width="50%" valign="top">
-  <h3>🧠 Machine Learning Project</h3>
-  <p><strong>Machine Learning · Data · Experimentation</strong></p>
+---
 
-  <p>
-    A structured ML project organized around datasets, notebooks,
-    configuration and reusable source code rather than a single
-    exploratory notebook.
-  </p>
+### 🧠 Machine Learning Project
 
-  <p>
-    <code>Python</code>
-    <code>Jupyter</code>
-    <code>Machine Learning</code>
-    <code>Data Analysis</code>
-  </p>
+A structured Machine Learning project organized around datasets, notebooks, configuration and reusable source code.
 
-  <p>
-    <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
-      <strong>View project →</strong>
-    </a>
-  </p>
-</td>
-```
+`Python` · `Jupyter Notebook` · `Machine Learning` · `Data Analysis`
 
-  </tr>
-</table>
-
-<p align="center">
-  <sub>
-    Applications, experiments and data projects built while exploring different
-    technologies and solving practical problems.
-  </sub>
+<p>
+  <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -184,8 +133,43 @@ I enjoy working across different layers of a project — from interfaces and bac
 
 ---
 
+## 📌 Projects
+
 <p align="center">
-  <sub>
-    Building useful things, learning from the process and improving the next iteration.
-  </sub>
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=JaimeArriagadaRosas&theme=aurora"
+    width="100%"
+    alt="GitHub projects"
+  />
+</p>
+
+---
+
+<details>
+  <summary><b>♟️ Chess Replay</b></summary>
+
+  <br />
+
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/chess?username=JaimeArriagadaRosas&theme=aurora"
+      width="100%"
+      alt="Automatic chess replay"
+    />
+  </p>
+
+</details>
+
+---
+
+## 🔗 Find me on GitHub
+
+<p align="center">
+  <a href="https://github.com/JaimeArriagadaRosas">
+    <img src="https://img.shields.io/badge/GitHub-JaimeArriagadaRosas-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Learning, building and improving one project at a time.</sub>
 </p>
