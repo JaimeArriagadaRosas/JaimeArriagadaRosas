@@ -137,10 +137,10 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/projects?username=JaimeArriagadaRosas&theme=aurora"
-    width="100%"
-    alt="GitHub projects"
-  />
+  src="https://www.gitskins.com/api/section/projects?username=JaimeArriagadaRosas&theme=aurora"
+  width="100%"
+  alt="GitHub projects"
+/>
 </p>
 
 <p align="center">
