@@ -133,14 +133,18 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 ---
 
-## 📌 Projects
+## 🧭 What I Build
 
 <p align="center">
   <img
-  src="https://www.gitskins.com/api/section/projects?username=JaimeArriagadaRosas&theme=aurora"
-  width="100%"
-  alt="GitHub projects"
-/>
+    src="./assets/projects-aurora.svg"
+    width="100%"
+    alt="Areas and projects I work on"
+  />
+</p>
+
+<p align="center">
+  <sub>Building complete solutions across software, data, AI and education technology.</sub>
 </p>
 
 <p align="center">
