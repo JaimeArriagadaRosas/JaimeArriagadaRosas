@@ -137,26 +137,21 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 ---
 
-## ♟️ Chess Replay
+## 🔎 Explore my work
 
 <p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/chess?username=JaimeArriagadaRosas&theme=aurora"
-    width="100%"
-    alt="Automatic chess replay"
-  />
+  <a href="https://github.com/JaimeArriagadaRosas?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore all repositories"
+    />
+  </a>
 </p>
 
----
-
-## 📌 More Projects
-
 <p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/projects?username=JaimeArriagadaRosas&theme=aurora"
-    width="100%"
-    alt="GitHub projects"
-  />
+  <sub>
+    More experiments, learning projects and ongoing work are available across my repositories.
+  </sub>
 </p>
 
 ---
