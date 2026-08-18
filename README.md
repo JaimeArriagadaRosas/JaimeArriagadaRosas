@@ -146,7 +146,3 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 <p align="center">
   <sub>Building complete solutions across software, data, AI and education technology.</sub>
 </p>
-
-<p align="center">
-  <sub>Learning, building and improving one project at a time.</sub>
-</p>
