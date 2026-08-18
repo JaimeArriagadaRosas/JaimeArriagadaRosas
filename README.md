@@ -15,7 +15,7 @@
     <img
       src="https://www.gitskins.com/api/section/hero?username=JaimeArriagadaRosas&theme=aurora&mode=dark"
       width="100%"
-      alt="GitHub profile hero"
+      alt="Jaime Arriagada GitHub profile"
     />
   </picture>
 </p>
@@ -34,9 +34,9 @@
 
 I'm **Jaime Arriagada**, a developer interested in building complete solutions from idea to implementation.
 
-I enjoy working across different layers of a project: **frontend, backend, data, integrations, automation and development environments**.
+I enjoy working across different layers of a project — from user interfaces and backend systems to data, automation, integrations and development infrastructure.
 
-My current interests include:
+### Current interests
 
 * 🌐 Full-stack development with **React, TypeScript and Node.js**
 * 🧠 **Machine Learning** and Data Science
@@ -47,16 +47,11 @@ My current interests include:
 
 ---
 
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,docker,git,github,vite,html,css" />
-</p>
+## 🛠️ Tech Stack
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/stack?username=JaimeArriagadaRosas&theme=aurora"
-    width="100%"
+    src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,docker,git,github,vite,html,css"
     alt="Technology stack"
   />
 </p>
@@ -75,7 +70,10 @@ The project combines:
 
 <p>
   <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Plugin Feedback for Canvas LMS"
+    />
   </a>
 </p>
 
@@ -89,7 +87,10 @@ A modern portfolio website for a fictional educational institution, designed aro
 
 <p>
   <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Colegio Horizonte"
+    />
   </a>
 </p>
 
@@ -103,7 +104,10 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 <p>
   <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Machine Learning Project"
+    />
   </a>
 </p>
 
@@ -133,7 +137,19 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 ---
 
-## 📌 Projects
+## ♟️ Chess Replay
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/chess?username=JaimeArriagadaRosas&theme=aurora"
+    width="100%"
+    alt="Automatic chess replay"
+  />
+</p>
+
+---
+
+## 📌 More Projects
 
 <p align="center">
   <img
@@ -145,31 +161,15 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 ---
 
-<details>
-  <summary><b>♟️ Chess Replay</b></summary>
-
-  <br />
-
-  <p align="center">
-    <img
-      src="https://www.gitskins.com/api/section/chess?username=JaimeArriagadaRosas&theme=aurora"
-      width="100%"
-      alt="Automatic chess replay"
-    />
-  </p>
-
-</details>
-
----
-
-## 🔗 Find me on GitHub
-
 <p align="center">
   <a href="https://github.com/JaimeArriagadaRosas">
-    <img src="https://img.shields.io/badge/GitHub-JaimeArriagadaRosas-181717?style=for-the-badge&logo=github" />
+    <img
+      src="https://img.shields.io/badge/GitHub-JaimeArriagadaRosas-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 <p align="center">
-  <sub>Learning, building and improving one project at a time.</sub>
+  <sub>Building, learning and improving one project at a time.</sub>
 </p>
