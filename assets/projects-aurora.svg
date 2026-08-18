@@ -1,6 +1,4 @@
-from pathlib import Path
-
-svg = r'''<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="540" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
@@ -133,10 +131,3 @@ svg = r'''<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmln
   <text x="640" y="492" class="tech">Data · Analysis · Exploration · Reproducible workflows</text>
   <text x="1094" y="395" text-anchor="end" class="num">04</text>
 </svg>
-'''
-
-path = Path("/mnt/data/projects-aurora.svg")
-path.write_text(svg, encoding="utf-8")
-
-print(f"Archivo creado: {path}")
-print(f"Tamaño: {path.stat().st_size} bytes")
