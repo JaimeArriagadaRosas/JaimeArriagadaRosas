@@ -131,18 +131,5 @@ A structured Machine Learning project organized around datasets, notebooks, conf
   />
 </p>
 
----
-
-## 🧭 What I Build
-
-<p align="center">
-  <img
-    src="./assets/projects-aurora.svg?v=2"
-    width="100%"
-    alt="Areas and projects I work on"
-  />
-</p>
-
-<p align="center">
   <sub>Building complete solutions across software, data, AI and education technology.</sub>
 </p>
