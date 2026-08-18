@@ -64,77 +64,85 @@ I enjoy working across different layers of a project — from interfaces and bac
   <tr>
     <td colspan="2" valign="top">
       <h3>🎓 Plugin Feedback for Canvas LMS</h3>
-      <p>
-        <strong>Education Technology · AI · Full Stack</strong>
-      </p>
-      <p>
-        An LTI 1.3 application for Canvas LMS designed to generate, review and deliver
-        academic feedback while keeping the instructor in control of the approval flow.
-      </p>
-      <p>
-        The project combines a React client, Node.js backend, AI-provider integrations,
-        PostgreSQL, Docker tooling and a local Canvas LMS development environment.
-      </p>
-      <p>
-        <code>React</code>
-        <code>Node.js</code>
-        <code>LTI 1.3</code>
-        <code>PostgreSQL</code>
-        <code>Docker</code>
-        <code>AI</code>
-        <code>Canvas LMS</code>
-      </p>
-      <p>
-        <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
-          <strong>Open repository →</strong>
-        </a>
-      </p>
-    </td>
+      <p><strong>Education Technology · AI · Full Stack</strong></p>
+
+```
+  <p>
+    An LTI 1.3 application for Canvas LMS designed to generate, review and deliver
+    academic feedback while keeping the instructor in control of the approval flow.
+  </p>
+
+  <p>
+    The project combines a React client, Node.js backend, AI-provider integrations,
+    PostgreSQL, Docker tooling and a local Canvas LMS development environment.
+  </p>
+
+  <p>
+    <code>React</code>
+    <code>Node.js</code>
+    <code>LTI 1.3</code>
+    <code>PostgreSQL</code>
+    <code>Docker</code>
+    <code>AI</code>
+    <code>Canvas LMS</code>
+  </p>
+
+  <p>
+    <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
+      <strong>View project →</strong>
+    </a>
+  </p>
+</td>
+```
+
   </tr>
 
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 Colegio Horizonte</h3>
-      <p>
-        <strong>Frontend · UI/UX · Web</strong>
-      </p>
-      <p>
-        A portfolio website for a fictional educational institution, focused on responsive
-        design, fluid animation and a polished content experience.
-      </p>
-      <p>
-        <code>React 19</code>
-        <code>TypeScript</code>
-        <code>Vite</code>
-        <code>Tailwind CSS</code>
-        <code>Framer Motion</code>
-      </p>
-      <p>
-        <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
-          <strong>Open repository →</strong>
-        </a>
-      </p>
-    </td>
+      <p><strong>Frontend · UI/UX · Web</strong></p>
 
 ```
+  <p>
+    A portfolio website for a fictional educational institution, focused on
+    responsive design, fluid animation and a polished content experience.
+  </p>
+
+  <p>
+    <code>React 19</code>
+    <code>TypeScript</code>
+    <code>Vite</code>
+    <code>Tailwind CSS</code>
+    <code>Framer Motion</code>
+  </p>
+
+  <p>
+    <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
+      <strong>View project →</strong>
+    </a>
+  </p>
+</td>
+
 <td width="50%" valign="top">
   <h3>🧠 Machine Learning Project</h3>
+  <p><strong>Machine Learning · Data · Experimentation</strong></p>
+
   <p>
-    <strong>Machine Learning · Data · Experimentation</strong>
+    A structured ML project organized around datasets, notebooks,
+    configuration and reusable source code rather than a single
+    exploratory notebook.
   </p>
-  <p>
-    A structured ML project organized around datasets, notebooks, configuration
-    and reusable source code rather than a single exploratory notebook.
-  </p>
+
   <p>
     <code>Python</code>
     <code>Jupyter</code>
     <code>Machine Learning</code>
     <code>Data Analysis</code>
   </p>
+
   <p>
     <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
-      <strong>Open repository →</strong>
+      <strong>View project →</strong>
     </a>
   </p>
 </td>
@@ -145,8 +153,8 @@ I enjoy working across different layers of a project — from interfaces and bac
 
 <p align="center">
   <sub>
-    I use my repositories as a workspace for complete applications, experiments,
-    data projects and ideas that evolve over time.
+    Applications, experiments and data projects built while exploring different
+    technologies and solving practical problems.
   </sub>
 </p>
 
