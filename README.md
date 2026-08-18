@@ -34,7 +34,7 @@
 
 I'm **Jaime Arriagada**, a developer interested in building complete solutions from idea to implementation.
 
-I enjoy working across different layers of a project — from user interfaces and backend systems to data, automation, integrations and development infrastructure.
+I enjoy working across different layers of a project — from interfaces and backend systems to data, integrations, automation and development infrastructure.
 
 ### Current interests
 
@@ -58,57 +58,96 @@ I enjoy working across different layers of a project — from user interfaces an
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Explore my work
 
-### 🎓 Plugin Feedback for Canvas LMS
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎓 Plugin Feedback for Canvas LMS</h3>
+      <p>
+        <strong>Education Technology · AI · Full Stack</strong>
+      </p>
+      <p>
+        An LTI 1.3 application for Canvas LMS designed to generate, review and deliver
+        academic feedback while keeping the instructor in control of the approval flow.
+      </p>
+      <p>
+        The project combines a React client, Node.js backend, AI-provider integrations,
+        PostgreSQL, Docker tooling and a local Canvas LMS development environment.
+      </p>
+      <p>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>LTI 1.3</code>
+        <code>PostgreSQL</code>
+        <code>Docker</code>
+        <code>AI</code>
+        <code>Canvas LMS</code>
+      </p>
+      <p>
+        <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
+          <strong>Open repository →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-An **LTI 1.3 application for Canvas LMS** focused on generating, reviewing and delivering academic feedback while keeping the instructor in control of the approval process.
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 Colegio Horizonte</h3>
+      <p>
+        <strong>Frontend · UI/UX · Web</strong>
+      </p>
+      <p>
+        A portfolio website for a fictional educational institution, focused on responsive
+        design, fluid animation and a polished content experience.
+      </p>
+      <p>
+        <code>React 19</code>
+        <code>TypeScript</code>
+        <code>Vite</code>
+        <code>Tailwind CSS</code>
+        <code>Framer Motion</code>
+      </p>
+      <p>
+        <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
+          <strong>Open repository →</strong>
+        </a>
+      </p>
+    </td>
 
-The project combines:
+```
+<td width="50%" valign="top">
+  <h3>🧠 Machine Learning Project</h3>
+  <p>
+    <strong>Machine Learning · Data · Experimentation</strong>
+  </p>
+  <p>
+    A structured ML project organized around datasets, notebooks, configuration
+    and reusable source code rather than a single exploratory notebook.
+  </p>
+  <p>
+    <code>Python</code>
+    <code>Jupyter</code>
+    <code>Machine Learning</code>
+    <code>Data Analysis</code>
+  </p>
+  <p>
+    <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
+      <strong>Open repository →</strong>
+    </a>
+  </p>
+</td>
+```
 
-`React` · `Node.js` · `LTI 1.3` · `Docker` · `PostgreSQL` · `AI Integrations` · `Canvas LMS`
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Plugin Feedback for Canvas LMS"
-    />
-  </a>
-</p>
-
----
-
-### 🏫 Colegio Horizonte
-
-A modern portfolio website for a fictional educational institution, designed around responsive interfaces, smooth animations and a polished user experience.
-
-`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `Framer Motion`
-
-<p>
-  <a href="https://github.com/JaimeArriagadaRosas/colegio-horizonte">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Colegio Horizonte"
-    />
-  </a>
-</p>
-
----
-
-### 🧠 Machine Learning Project
-
-A structured Machine Learning project organized around datasets, notebooks, configuration and reusable source code.
-
-`Python` · `Jupyter Notebook` · `Machine Learning` · `Data Analysis`
-
-<p>
-  <a href="https://github.com/JaimeArriagadaRosas/Proyecto-1-ML">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Machine Learning Project"
-    />
-  </a>
+<p align="center">
+  <sub>
+    I use my repositories as a workspace for complete applications, experiments,
+    data projects and ideas that evolve over time.
+  </sub>
 </p>
 
 ---
@@ -137,34 +176,8 @@ A structured Machine Learning project organized around datasets, notebooks, conf
 
 ---
 
-## 🔎 Explore my work
-
-<p align="center">
-  <a href="https://github.com/JaimeArriagadaRosas?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore all repositories"
-    />
-  </a>
-</p>
-
 <p align="center">
   <sub>
-    More experiments, learning projects and ongoing work are available across my repositories.
+    Building useful things, learning from the process and improving the next iteration.
   </sub>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/JaimeArriagadaRosas">
-    <img
-      src="https://img.shields.io/badge/GitHub-JaimeArriagadaRosas-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Building, learning and improving one project at a time.</sub>
 </p>
