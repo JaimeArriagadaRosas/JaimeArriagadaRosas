@@ -54,24 +54,6 @@ React and TypeScript institutional website **demonstration for a fictional schoo
 
 **Additional repositories:** [Clinical Intelligence Platform](https://github.com/JaimeArriagadaRosas/clinical-drg-predictor) · [LithiumScope](https://github.com/JaimeArriagadaRosas/LithiumScope)
 
-## GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/contributions-badge-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/contributions-badge.svg" />
-    <img src="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/contributions-badge.svg" width="390" alt="Total GitHub contributions in the last year" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/JaimeArriagadaRosas/JaimeArriagadaRosas/main/assets/github-snake.svg" width="100%" alt="Animated GitHub contributions grid" />
-  </picture>
-</p>
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jaime-arriagada-rosas-528bb5204/) · [GitHub](https://github.com/JaimeArriagadaRosas)
