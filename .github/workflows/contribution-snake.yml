@@ -1,9 +1,15 @@
-name: Refresh contribution snake
+name: Refresh contribution activity
 
 on:
   workflow_dispatch:
   schedule:
     - cron: '17 4 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/contribution-snake.yml
+      - scripts/compose_activity.py
 
 permissions:
   contents: write
@@ -22,23 +28,36 @@ jobs:
         with:
           ref: main
 
-      - name: Generate animated SVGs
+      - name: Prepare temporary SVG output
+        run: mkdir -p .activity-build
+
+      - name: Generate animated snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: JaimeArriagadaRosas
           outputs: |
-            assets/github-snake.svg?palette=github-light&color_snake=#27b8aa
-            assets/github-snake-dark.svg?palette=github-dark&color_snake=#68e1d3
+            .activity-build/snake-light.svg?palette=github-light&color_snake=#27b8aa
+            .activity-build/snake-dark.svg?palette=github-dark&color_snake=#68e1d3
 
-      - name: Update generated files on main
+      - name: Add real GraphQL count and validate both SVGs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 -B scripts/compose_activity.py \
+            --login JaimeArriagadaRosas \
+            --light .activity-build/snake-light.svg \
+            --dark .activity-build/snake-dark.svg \
+            --output-dir assets
+
+      - name: Publish updated assets to main only when changed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- assets/github-snake.svg assets/github-snake-dark.svg
           if git diff --cached --quiet; then
-            echo "Snake assets are up to date."
+            echo "Activity SVGs are unchanged; no commit needed."
           else
-            git commit -m "chore(profile): refresh contribution snake"
+            git commit -m "chore(profile): refresh animated contribution activity"
             git push origin HEAD:main
           fi
