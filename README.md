@@ -54,6 +54,16 @@ React and TypeScript institutional website **demonstration for a fictional schoo
 
 **Additional repositories:** [Clinical Intelligence Platform](https://github.com/JaimeArriagadaRosas/clinical-drg-predictor) · [LithiumScope](https://github.com/JaimeArriagadaRosas/LithiumScope)
 
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake.svg" width="100%" alt="Animated GitHub contributions graph" />
+  </picture>
+</p>
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jaime-arriagada-rosas-528bb5204/) · [GitHub](https://github.com/JaimeArriagadaRosas)
