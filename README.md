@@ -12,7 +12,7 @@ I develop **web applications, REST APIs, backend services, and system integratio
 
 ### [Canvas LMS + LTI 1.3 | Full Stack integration](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas)
 
-**Completed project · Solution requested by UNIDA (Universidad Andrés Bello)**
+**Completed project · Solution requested by UNIDA**
 
 I built a Full Stack feedback solution that connects with **Canvas LMS through LTI 1.3**. It uses a React interface, Node.js/Express REST services, and PostgreSQL to support academic feedback workflows, including AI-assisted generation and instructor review before delivery.
 
