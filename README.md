@@ -3,32 +3,56 @@
 </p>
 
 <p align="center">
-  <strong>Software Developer | Full Stack &amp; Backend</strong>
+  <strong>Software Developer | Full Stack &amp; Backend | Systems Integration</strong>
 </p>
 
-I build **web applications, APIs, and automation tools**, with a focus on clear interfaces, reliable backend services, maintainable code, and verifiable results.
+I develop **web applications, REST APIs, backend services, and system integrations**. My focus is turning concrete requirements into maintainable software: from interfaces and database changes to authentication, deployment tooling, and automated tests.
 
-## Selected work
+## Featured project — Canvas LMS Feedback Plugin
 
-### [Plugin Feedback for Canvas LMS](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas)
-**Collaborative LTI 1.3 integration developed for an institutional stakeholder (UNIDA).** Supports AI-assisted academic feedback with instructor review and approval. The project brings together React, Node.js/Express, PostgreSQL, Redis, Docker, and integration with Canvas LMS.
+### [Canvas LMS + LTI 1.3 | Full Stack integration](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas)
 
-### [Transcribe](https://github.com/JaimeArriagadaRosas/Transcribe)
-**Local transcription and multimedia-processing tool in Python.** Handles authorized Zoom recordings and YouTube content, tracks interrupted jobs, and exports TXT, SRT, and VTT using faster-whisper.
+**Completed project · Runs locally · Developed by me · Solution requested by UNIDA (Universidad Andrés Bello)**
 
-### [Colegio Horizonte](https://github.com/JaimeArriagadaRosas/colegio-horizonte)
-**Institutional website demonstration for a fictional school**, built with React and TypeScript. Engineering work includes accessibility, responsive layouts, SEO, security headers, CI, and automated quality checks.
+I built a Full Stack feedback solution that connects with **Canvas LMS through LTI 1.3**. It uses a React interface, Node.js/Express REST services, and PostgreSQL to support academic feedback workflows, including AI-assisted generation and instructor review before delivery.
 
-## Technical focus
+**What I built and solved:**
 
-- **Backend and integrations:** Python, FastAPI, Node.js, Express, REST APIs
-- **Full Stack:** React, TypeScript, JavaScript
-- **Data and delivery:** PostgreSQL, Redis, Docker, Git, GitHub Actions
+- **Full Stack features:** Implemented and integrated administration-panel improvements, REST endpoints, and PostgreSQL migrations for system configuration and AI-provider settings.
+- **LMS integration and authentication:** Fixed Canvas integration issues involving OAuth2, token handling, file previews, controllers, middleware, and backend services.
+- **Deployment tooling:** Automated installation and maintenance tasks using Docker and HTTPS/TLS, addressing filesystem permissions, non-privileged execution, and compatibility across Windows and Linux environments.
+- **Software quality:** Added regression tests and diagnostic tools to reproduce integration issues, verify fixes, and make local setup more consistent.
+- **Feedback workflow:** Connected the application to a process where generated academic feedback can be reviewed and approved by the instructor before submission.
 
-## Additional engineering work
+**Stack:** React · JavaScript · Node.js · Express · REST APIs · PostgreSQL · Redis · Docker · LTI 1.3 · OAuth2 · HTTPS/TLS
 
-- [Clinical Intelligence Platform](https://github.com/JaimeArriagadaRosas/clinical-drg-predictor) — reproducible clinical-data pipelines, FastAPI, FHIR, and Machine Learning experimentation.
-- [LithiumScope](https://github.com/JaimeArriagadaRosas/LithiumScope) — reproducible local software for geochemical analysis and model comparison.
+**Evidence:** [Source code](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas) · [System architecture](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas/blob/main/docs/ARCHITECTURE.md) · [Testing strategy](https://github.com/JaimeArriagadaRosas/Plugin-Feedback-Canvas/blob/main/docs/TESTING.md)
+
+> **Scope:** The solution is finished for its local execution environment. This is not a claim of an institution-wide production deployment.
+
+## What I can build
+
+- **Web applications:** Interfaces connected to APIs and business workflows.
+- **Backend services and integrations:** REST endpoints, authentication, database-backed features, and connections between systems.
+- **Automation and tooling:** Repeatable processing workflows, development environments, installation tooling, and diagnostics.
+- **Testing and maintainability:** Regression coverage, modular implementation, troubleshooting, and reproducible setup.
+
+## Other selected projects
+
+### [Transcribe — local multimedia automation](https://github.com/JaimeArriagadaRosas/Transcribe)
+Python application that processes authorized Zoom recordings and YouTube content, tracks interrupted transcription jobs, and exports TXT, SRT, and VTT using faster-whisper.
+
+### [Colegio Horizonte — web engineering demo](https://github.com/JaimeArriagadaRosas/colegio-horizonte)
+React and TypeScript institutional website **demonstration for a fictional school**, focused on responsive design, accessibility, SEO, security headers, CI, and automated checks.
+
+## Technical toolkit
+
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Full Stack and backend:** React, Node.js, Express, FastAPI, REST APIs
+- **Data and infrastructure:** PostgreSQL, Redis, Docker, Git/GitHub
+- **Engineering:** Systems integration, modular architecture, automated testing, GitHub Actions
+
+**Additional repositories:** [Clinical Intelligence Platform](https://github.com/JaimeArriagadaRosas/clinical-drg-predictor) · [LithiumScope](https://github.com/JaimeArriagadaRosas/LithiumScope)
 
 ## GitHub activity
 
@@ -40,10 +64,8 @@ I build **web applications, APIs, and automation tools**, with a focus on clear 
   </picture>
 </p>
 
-<sub>The contribution animation is generated by [GitHub Actions](https://github.com/JaimeArriagadaRosas/JaimeArriagadaRosas/actions/workflows/contribution-snake.yml) and published to a separate `output` branch.</sub>
+<sub>Contribution animation generated by [GitHub Actions](https://github.com/JaimeArriagadaRosas/JaimeArriagadaRosas/actions/workflows/contribution-snake.yml).</sub>
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jaime-arriagada-rosas-528bb5204/) · [GitHub](https://github.com/JaimeArriagadaRosas)
-
-<sub>Projects are described according to their actual status. Collaborative, academic, and demonstration work is identified accordingly.</sub>
