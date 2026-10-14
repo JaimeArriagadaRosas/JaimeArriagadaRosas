@@ -23,13 +23,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
       - name: Generate light and dark animated SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: JaimeArriagadaRosas
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#27b8aa
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#68e1d3
+            assets/github-snake.svg?palette=github-light&color_snake=#27b8aa
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#68e1d3
 
       - name: Generate verified contribution count badges
         uses: actions/github-script@v7
@@ -74,16 +79,29 @@ jobs:
                 '</svg>',
               ].join('');
             };
-            mkdirSync('dist', { recursive: true });
-            writeFileSync('dist/contributions-badge.svg', makeBadge(false), 'utf8');
-            writeFileSync('dist/contributions-badge-dark.svg', makeBadge(true), 'utf8');
+            mkdirSync('assets', { recursive: true });
+            writeFileSync('assets/contributions-badge.svg', makeBadge(false), 'utf8');
+            writeFileSync('assets/contributions-badge-dark.svg', makeBadge(true), 'utf8');
             core.info('Generated contribution badges for count: ' + total);
 
-      - name: Publish assets to output branch
-        uses: crazy-max/ghaction-github-pages@v5
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit updated assets to main
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/github-snake.svg assets/github-snake-dark.svg assets/contributions-badge.svg assets/contributions-badge-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution assets are already up to date."
+          else
+            git commit -m "chore(profile): refresh contribution assets"
+            git push origin HEAD:main
+          fi
+
+      - name: Remove obsolete output branch
+        shell: bash
+        run: |
+          if git ls-remote --exit-code --heads origin output > /dev/null 2>&1; then
+            git push origin --delete output
+          else
+            echo "Legacy output branch already absent."
+          fi
